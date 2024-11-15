@@ -15,3 +15,11 @@
 >> Run the command :  npm install 
 >> npm run dev --       to start the project
 
+### Home View
+![Home View](./frontend/screenshot/Home_View.png)
+
+### Add Task
+![Add Task](./frontend/screenshot/Add_Task.png)
+
+### Task Sorting
+![Task Sorting](./frontend/screenshot/Task_Sort.png)
